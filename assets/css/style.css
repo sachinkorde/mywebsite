@@ -1,0 +1,22 @@
+body
+{
+    background: lightblue;
+    background-image: url("ra.jpg");
+}
+p.groove
+{
+    border-style: groove;
+
+}
+
+h1
+{
+    color: rgb(135, 112, 216);
+    font: outline;stroke-width: 2px;
+    text-shadow:3px 0px 0px;
+    text-align: center;
+}
+h2{
+    text-shadow: dimgray;
+    text-decoration-style: solid;
+}
